@@ -1,5 +1,5 @@
 name             'aliases'
-maintainer       'OSU Open Source Lab'
+maintainer       'Oregon State University'
 maintainer_email 'rudy@grigar.net'
 license          'Apache 2.0'
 description      'Installs/Configures aliases'
