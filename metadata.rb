@@ -1,4 +1,6 @@
 name             'aliases'
+issues_url       'https://github.com/osuosl-cookbooks/aliases/issues'
+source_url       'https://github.com/osuosl-cookbooks/aliases'
 maintainer       'Oregon State University'
 maintainer_email 'rudy@grigar.net'
 license          'Apache 2.0'
