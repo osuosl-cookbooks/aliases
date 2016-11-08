@@ -8,5 +8,6 @@ description      'Installs/Configures aliases'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          '0.1.2'
 depends          'magic_shell', '>= 1.0.0'
-supports         'centos'
-supports         'debian'
+supports         'centos', '~> 6.0'
+supports         'centos', '~> 7.0'
+supports         'debian', '~> 8.0'
